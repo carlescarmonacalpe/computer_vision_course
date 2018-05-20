@@ -1,5 +1,7 @@
 # Introducción a la visión por computador
 
+Este es el repositorio principal del curso “Introducción a la visión por computador” que impartiré en Mayo de 2018. Todo el material necesario para el curso estará disponible aquí. 
+
 ## Índice
 * [Resumen del curso](#resumen)
 * [Presentaciones](#presentaciones)
@@ -13,8 +15,6 @@
 
 
 # Resumen
-
-Este es el repositorio principal del curso “Introducción a la visión por computador” que impartiré en Mayo de 2018. Todo el material necesario para el curso estará disponible aquí. El contenido del curso será el siguiente:
 
 Sesión 1 - Fundamentos de la visión por computador.
 
