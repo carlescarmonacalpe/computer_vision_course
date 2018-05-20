@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+opencv-python
+scikit-image
+scikit-learn
+jupyter
+ipywidgets
+h5py
+hdf5storage
