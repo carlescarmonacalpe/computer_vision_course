@@ -5,8 +5,8 @@
 * [Presentaciones](#presentaciones)
 * [Preguntas frecuentes](#preguntas-frecuentes)
   * [Instalar el entorno](#instalar-el-entorno)
-    *[Instalación en Windows](#instalación-en-windows)
-    *[Instalación en Linux](#instalación-en-linux)
+    * [Instalación en Windows](#instalación-en-windows)
+    * [Instalación en Linux](#instalación-en-linux)
   * [Hacer preguntas](#hacer-preguntas)
 * [Enlaces de interés](#enlaces-de-interés)
 * [Otros cursos](#otros-cursos)
@@ -57,8 +57,8 @@ Sesión 4 - Transformaciones y recap de todo lo que hemos hecho.
 
 | Sesión | Diapositivas | Parte práctica |
 | ------ | ------ | ------ |
-| Sesión 1 - Fundamentos de la visión por computador | [Diapositivas](https://docs.google.com/presentation/d/16Bms6BbmLxBtoIK5sWMdhKDQAWKViHsxcuLvfVVktIw/edit?usp=sharing) | [Notebook]() |
-| Sesión 2 - Detector de caras| [Diapositivas](https://docs.google.com/presentation/d/1bDeTgP6bBBwJbyNWjy5YMPIEwokpTxDvL3FRWRm8KjA/edit?usp=sharing) | [Notebook]() |
+| Sesión 1 - Fundamentos de la visión por computador | [Diapositivas](https://docs.google.com/presentation/d/16Bms6BbmLxBtoIK5sWMdhKDQAWKViHsxcuLvfVVktIw/edit?usp=sharing) | [Notebook](https://github.com/carlescarmonacalpe/computer_vision_course/blob/master/Sesi%C3%B3n%201%20-%20Fundamentos%2C%20filtrado%20de%20imagen%20y%20descriptores.ipynb) |
+| Sesión 2 - Detector de caras| [Diapositivas](https://docs.google.com/presentation/d/1bDeTgP6bBBwJbyNWjy5YMPIEwokpTxDvL3FRWRm8KjA/edit?usp=sharing) | [Notebook](https://github.com/carlescarmonacalpe/computer_vision_course/blob/master/Sesi%C3%B3n%202%20-%20Detecci%C3%B3n%20de%20caras.ipynb) |
 
 
 ## Preguntas frecuentes
@@ -84,7 +84,7 @@ Por último para instalar las librerías de Python necesarias deberemos realizar
 
 Esta instrucción instala todas la librerías necesarias excepto una que debemos instalarla manualmente con la instrucción
 
-    pip install resources/dlib.whl
+    pip install resources/dlib-19.8.1-cp36-cp36m-win_amd64.whl
 
 !Eso es todo, ya tenemos el entorno instalado!
 
@@ -108,7 +108,7 @@ Para instalar las librerías de Python necesarias deberemos realizar dos accione
 
 Esta instrucción instala todas la librerías necesarias excepto una que debemos instalarla manualmente con la instrucción
 
-    pip install resources/dlib.whl
+    pip install resources/dlib-19.8.1-cp36-cp36m-win_amd64.whl
 
 ### Hacer preguntas
 
