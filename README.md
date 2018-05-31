@@ -59,6 +59,8 @@ Sesión 4 - Transformaciones y recap de todo lo que hemos hecho.
 | ------ | ------ | ------ |
 | Sesión 1 - Fundamentos de la visión por computador | [Diapositivas](https://docs.google.com/presentation/d/16Bms6BbmLxBtoIK5sWMdhKDQAWKViHsxcuLvfVVktIw/edit?usp=sharing) | [Notebook](https://github.com/carlescarmonacalpe/computer_vision_course/blob/master/Sesi%C3%B3n%201%20-%20Fundamentos%2C%20filtrado%20de%20imagen%20y%20descriptores.ipynb) |
 | Sesión 2 - Detector de caras| [Diapositivas](https://docs.google.com/presentation/d/1bDeTgP6bBBwJbyNWjy5YMPIEwokpTxDvL3FRWRm8KjA/edit?usp=sharing) | [Notebook](https://github.com/carlescarmonacalpe/computer_vision_course/blob/master/Sesi%C3%B3n%202%20-%20Detecci%C3%B3n%20de%20caras.ipynb) |
+| Sesión 3 - Landmarks y reconocimiento facial| [Diapositivas](https://docs.google.com/presentation/d/1Cpog49NrHubCW0NALykeLShHDNRKnf9TaAtfOkrenFI/edit?usp=sharing) | [Notebook](https://github.com/carlescarmonacalpe/computer_vision_course/blob/master/Sesi%C3%B3n%203%20-%20Landmarks%20y%20reconocimiento%20facial.ipynb) |
+| Sesión 4 - Transformaciones afines y proyecto final| [Diapositivas](https://docs.google.com/presentation/d/1UHgMRwg8UmSYNvzqV4kP5tbIo_2FbssxO14TBZHztKs/edit?usp=sharing) | [Notebook](#) |
 
 
 ## Preguntas frecuentes
